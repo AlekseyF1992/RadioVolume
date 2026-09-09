@@ -52,7 +52,6 @@
                             <goal>report</goal>
                         </goals>
                     </execution>
-                    <!-- Блок с id="check" удален, чтобы сборка не падала из-за недостаточного покрытия -->
                 </executions>
             </plugin>
         </plugins>
